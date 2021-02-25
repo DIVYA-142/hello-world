@@ -1,1 +1,8 @@
 # hello-world
+import java.util.Scanner;
+class Main{
+public static void main{
+Scanner sc=new Scanner(System.in);
+System.out.println("hello world");
+}
+}
